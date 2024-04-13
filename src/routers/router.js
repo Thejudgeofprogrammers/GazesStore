@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const router = express.Router();
-// const { title } = require('../content');
+// const { ... } = require('../content');
 
 router.use(express.json());
 router.use(express.urlencoded({ extended: true }));
