@@ -13,7 +13,7 @@ app.set('views', path.resolve(__dirname, 'public', 'static'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-
+app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', router);
 app.use(logger);
 app.use(error404);

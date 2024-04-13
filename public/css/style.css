@@ -1,0 +1,18 @@
+* {
+    margin: 100px;
+    padding: 100px;
+    box-sizing: border-box;
+ }
+
+:root {
+    --bg: #222;
+    --clr: #fff;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: var(--bg);
+}
