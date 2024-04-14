@@ -10,4 +10,8 @@ router.get('/', (req, res) => {
   res.render('index', { title : 'GazeSound' });
 });
 
+router.get('/api/login', (req, res) => {
+  res.json({id: 4});
+});
+
 module.exports = router;
