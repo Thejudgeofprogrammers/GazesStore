@@ -3,9 +3,25 @@
 1713047313910 | /user/login | GET
 1713047314519 | /user/login | GET
 1713047314938 | /user/login | GET
+<<<<<<< HEAD
 2024-04-14T00:03:22.127Z | /api/login | GET | Execution Time: 0ms
 2024-04-14T00:03:32.879Z | /api/login | GET | Execution Time: 0ms
 2024-04-14T00:04:55.668Z | /api/login | GET | Execution Time: 9ms
 2024-04-14T00:05:31.237Z | /api/login | GET | Execution Time: 5ms
 2024-04-14T00:05:44.651Z | /api/login2 | GET | Execution Time: 1ms
 2024-04-14T00:05:58.123Z | /api/login | GET | Execution Time: 1ms
+=======
+1713050046592 | /style.css | GET
+1713050047120 | /style.css | GET
+1713050066805 | /style.css | GET
+1713050068103 | /style.css | GET
+1713050068804 | /style.css | GET
+1713050069185 | /style.css | GET
+1713050069508 | /style.css | GET
+1713050070296 | /style.css | GET
+1713050244904 | /public/css/style.css | GET
+1713050247481 | /public/css/style.css | GET
+1713050262458 | /css/style.css | GET
+1713050263089 | /css/style.css | GET
+1713050645915 | /css/style.css | GET
+>>>>>>> 53f084b99ec9a4eeadd20f3ffbf6b7dfbd7bdd1c
