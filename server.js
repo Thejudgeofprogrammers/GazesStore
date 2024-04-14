@@ -10,13 +10,14 @@ const app = express();
 app.set('view engine', 'ejs');
 app.set('views', path.resolve(__dirname, 'public', 'static'));
 
+app.use(logger);
+app.use(error404);
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', router);
-app.use(logger);
-app.use(error404);
+
 
 const PORT = process.env.PORT ?? 3030;
 
