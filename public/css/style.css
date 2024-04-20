@@ -5,18 +5,29 @@
     font-family: 'Roboto', sans-serif;
 }
 
-a{
-    text-decoration: none;
-    color: #222;
+.container main{
+    padding:20px 36px;
 }
 
-i{
-    color: #222;
-    cursor: pointer;
-}
-
-.nav{
+.container main header{
     display: flex;
-    justify-content: flex-end;
-    height: 100%;
+    align-items: center;
+    height: 50px;
+    justify-content: space-between;
 }
+
+.container main header .logo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-bottom: 5px;
+}
+
+.container main header .nav-links{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 19px;
+}
+
+

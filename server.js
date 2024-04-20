@@ -11,7 +11,7 @@ app.set('view engine', 'ejs');
 app.set('views', path.resolve(__dirname, 'public', 'static'));
 
 app.use(logger);
-app.use(error404);
+// app.use(error404);
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
