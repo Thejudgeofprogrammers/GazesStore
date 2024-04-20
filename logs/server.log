@@ -36,6 +36,45 @@
 2024-04-14T00:24:31.638Z | / | GET | Execution Time: 1ms
 2024-04-14T00:26:45.213Z | / | GET | Execution Time: 6ms
 2024-04-14T00:27:32.586Z | / | GET | Execution Time: 1ms
+<<<<<<< HEAD
+2024-04-20T15:39:26.608Z | / | GET | Execution Time: 6ms
+2024-04-20T15:40:06.732Z | / | GET | Execution Time: 6ms
+2024-04-20T15:43:44.193Z | / | GET | Execution Time: 6ms
+2024-04-20T15:43:44.899Z | / | GET | Execution Time: 1ms
+2024-04-20T15:46:49.274Z | / | GET | Execution Time: 15ms
+2024-04-20T15:46:49.469Z | /css/style.css | GET | Execution Time: 4ms
+2024-04-20T15:46:50.261Z | /favicon.ico | GET | Execution Time: 2ms
+2024-04-20T15:46:53.545Z | / | GET | Execution Time: 2ms
+2024-04-20T15:46:53.727Z | /css/style.css | GET | Execution Time: 1ms
+2024-04-20T15:46:54.515Z | / | GET | Execution Time: 3ms
+2024-04-20T15:46:54.701Z | /css/style.css | GET | Execution Time: 1ms
+2024-04-20T15:46:55.426Z | / | GET | Execution Time: 2ms
+2024-04-20T15:46:55.609Z | /css/style.css | GET | Execution Time: 1ms
+2024-04-20T15:47:02.500Z | / | GET | Execution Time: 2ms
+2024-04-20T15:47:02.664Z | /css/style.css | GET | Execution Time: 1ms
+2024-04-20T15:52:55.007Z | / | GET | Execution Time: 5ms
+2024-04-20T15:52:55.574Z | / | GET | Execution Time: 1ms
+2024-04-20T15:52:55.792Z | / | GET | Execution Time: 0ms
+2024-04-20T15:52:56.011Z | / | GET | Execution Time: 1ms
+2024-04-20T16:02:26.662Z | / | GET | Execution Time: 6ms
+2024-04-20T16:02:27.216Z | / | GET | Execution Time: 1ms
+2024-04-20T16:02:38.733Z | / | GET | Execution Time: 14ms
+2024-04-20T16:02:38.918Z | /css/style.css | GET | Execution Time: 2ms
+2024-04-20T16:18:16.466Z | / | GET | Execution Time: 17ms
+2024-04-20T16:19:31.581Z | / | GET | Execution Time: 29ms
+2024-04-20T16:19:31.781Z | /css/style.css | GET | Execution Time: 1ms
+2024-04-20T16:20:30.869Z | / | GET | Execution Time: 16ms
+2024-04-20T16:20:31.058Z | /css/style.css | GET | Execution Time: 2ms
+2024-04-20T16:25:20.524Z | /Shop | GET | Execution Time: 3ms
+2024-04-20T16:25:32.861Z | /Shop | GET | Execution Time: 2ms
+2024-04-20T16:25:56.237Z | /Shop | GET | Execution Time: 2ms
+2024-04-20T16:26:01.105Z | /Shop | GET | Execution Time: 14ms
+2024-04-20T16:26:03.340Z | /Shop | GET | Execution Time: 2ms
+2024-04-20T16:26:05.132Z | / | GET | Execution Time: 4ms
+2024-04-20T16:26:05.327Z | /css/style.css | GET | Execution Time: 1ms
+2024-04-20T16:26:08.291Z | /Shop | GET | Execution Time: 2ms
+2024-04-20T16:26:18.795Z | /shop | GET | Execution Time: 3ms
+=======
 2024-04-20T15:56:00.535Z | / | GET | Execution Time: 7ms
 2024-04-20T15:56:00.699Z | /favicon.ico | GET | Execution Time: 1ms
 2024-04-20T15:57:08.387Z | / | GET | Execution Time: 6ms
@@ -126,3 +165,9 @@
 2024-04-20T16:42:05.333Z | /css/style.css | GET | Execution Time: 1ms
 2024-04-20T16:42:11.786Z | / | GET | Execution Time: 1ms
 2024-04-20T16:42:11.802Z | /css/style.css | GET | Execution Time: 2ms
+>>>>>>> 8ae26fd1b121922ac3467c3b8219ea3c47619568
+2024-04-20T17:21:49.901Z | /shop | GET | Execution Time: 18ms
+2024-04-20T17:21:52.047Z | / | GET | Execution Time: 7ms
+2024-04-20T17:21:52.291Z | /css/style.css | GET | Execution Time: 6ms
+2024-04-20T17:26:44.375Z | / | GET | Execution Time: 17ms
+2024-04-20T17:26:44.584Z | /css/style.css | GET | Execution Time: 2ms
