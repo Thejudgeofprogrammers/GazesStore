@@ -166,3 +166,8 @@
 2024-04-20T16:42:11.786Z | / | GET | Execution Time: 1ms
 2024-04-20T16:42:11.802Z | /css/style.css | GET | Execution Time: 2ms
 >>>>>>> 8ae26fd1b121922ac3467c3b8219ea3c47619568
+2024-04-20T17:21:49.901Z | /shop | GET | Execution Time: 18ms
+2024-04-20T17:21:52.047Z | / | GET | Execution Time: 7ms
+2024-04-20T17:21:52.291Z | /css/style.css | GET | Execution Time: 6ms
+2024-04-20T17:26:44.375Z | / | GET | Execution Time: 17ms
+2024-04-20T17:26:44.584Z | /css/style.css | GET | Execution Time: 2ms

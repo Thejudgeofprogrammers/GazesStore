@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 require('dotenv').config();
 const router = require('./src/routers/main');
-const routerShop = require('./src/routers/router');
+const routerShop = require('./src/routers/router_shop');
 const logger = require('./middleware/logger');
 const error404 = require('./middleware/error-404');
 
